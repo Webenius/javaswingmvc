@@ -1,0 +1,1 @@
+javaswingmvc is a sample Model View Controller Application implemented with Java 7 (Swing) and the IntelliJ IDEA IDE.
